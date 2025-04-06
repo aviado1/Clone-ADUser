@@ -69,3 +69,5 @@ Use of this script is at your own risk.
 - The author assumes no responsibility for any damage, data loss, misconfiguration, or access issues that may result from use of this code.
 
 **Always test in a development or staging environment before using in production.**
+
+Script Author:** [aviado1](https://github.com/aviado1)
