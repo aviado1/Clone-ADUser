@@ -70,4 +70,4 @@ Use of this script is at your own risk.
 
 **Always test in a development or staging environment before using in production.**
 
-Script Author:** [aviado1](https://github.com/aviado1)
+Script Author: [aviado1](https://github.com/aviado1)
